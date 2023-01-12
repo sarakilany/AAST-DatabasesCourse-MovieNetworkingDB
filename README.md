@@ -1,1 +1,1 @@
-# AAST-Databases
+# AAST-Databases Course - Movie Networking DB
